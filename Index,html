@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>GlobalConnect</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <div id="google_translate_element" class="translate"></div>
+    <h1>🌐 Welcome to GlobalConnect</h1>
+    <p>“Car je connais les projets que j'ai formés sur vous...” – Jérémie 29:11</p>
+  </header>
+
+  <main>
+    <section>
+      <h2>À propos de nous</h2>
+      <p>Un espace en ligne, ouvert à tous, prêt à accueillir vos produits et messages.</p>
+    </section>
+
+    <section>
+      <h2>Nos produits</h2>
+      <p>Ils arrivent bientôt…</p>
+    </section>
+
+    <section>
+      <h2>Contact</h2>
+      <p><a href="https://wa.me/1234567890">Contactez-nous sur WhatsApp</a></p>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 GlobalConnect – Jérémie 29:11</p>
+  </footer>
+
+  <script type="text/javascript">
+    function googleTranslateElementInit() {
+      new google.translate.TranslateElement({
+        pageLanguage: 'en',
+        layout: google.translate.TranslateElement.InlineLayout.SIMPLE
+      }, 'google_translate_element');
+    }
+  </script>
+  <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</body>
+</html>
+
